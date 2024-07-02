@@ -14,12 +14,12 @@ Skills
 - DBMS
   - <img src="https://img.shields.io/badge/Oracle%20SQL%20Developer-F80000?style=flat-square&logo=oracle&logoColor=white"/>
 - IDE
-  - <img src="https://img.shields.io/badge/Eclipse%20IDE-2C2255.svg?&style=for-the-badge&logo=Eclipse%20IDE&logoColor=white"/>
+  - <img src="https://img.shields.io/badge/Eclipse%20IDE-2C2255?style=flat-square&logo=Eclipse%20IDE&logoColor=white"/>
   - <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat-square&logo=Visual%20Studio%20Code&logoColor=white"/>
 - Cooperation
 Sourcetree
   Jira, Notion, Figma, ERDCloud
-  - <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/> <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/> <img src="https://img.shields.io/badge/Git%20Bash-F05032?style=flat-square&logo=git&logoColor=white"/>
+  - <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/> <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/> <img src="https://img.shields.io/badge/Git%20Bash-FF3333?style=flat-square&logo=git&logoColor=white"/> 
 
 
 <!--
