@@ -1,10 +1,10 @@
 ## Hi there 👋
 
-+ 간단한 소개
-+ 취미 등등
++ 소개
++ 취미
 + 목표
 
-##Skills
+Skills
 - Language
   - <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=OpenJDK&logoColor=white"/> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
   - <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
@@ -13,11 +13,13 @@
   - <img src="https://img.shields.io/badge/Spring%20(Spring%20Tool%20Suite%203)-6DB33F?style=flat-square&logo=Spring&logoColor=white"/>
 - DBMS
   - <img src="https://img.shields.io/badge/Oracle%20SQL%20Developer-F80000?style=flat-square&logo=oracle&logoColor=white"/>
+- IDE
+- Eclipse
 
   
-- IDE
-  Eclipse
-  Visual Studio Code
+- Visual Studio Code
+
+  
 - Cooperation
   Git, GitHub, Git Bash, Sourcetree
   Jira, Notion, Figma, ERDCloud
