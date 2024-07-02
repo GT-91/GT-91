@@ -14,10 +14,8 @@ Skills
 - DBMS
   - <img src="https://img.shields.io/badge/Oracle%20SQL%20Developer-F80000?style=flat-square&logo=oracle&logoColor=white"/>
 - IDE
-- Eclipse
-
-  
-- Visual Studio Code
+  - <img src="https://img.shields.io/badge/Eclipse%20IDE-2C2255.svg?&style=for-the-badge&logo=Eclipse%20IDE&logoColor=white"/>
+  - <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat-square&logo=Visual%20Studio%20Code&logoColor=white"/>
 
   
 - Cooperation
