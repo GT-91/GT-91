@@ -11,10 +11,10 @@ Skills
   - <img src="https://img.shields.io/badge/SQL-FF6600?style=flat-square"/>
 - Framework
   - <img src="https://img.shields.io/badge/Spring%20(Spring%20Tool%20Suite%203)-6DB33F?style=flat-square&logo=Spring&logoColor=white"/>
-
-
 - DBMS
-  Oracle SQL Developer
+  - <img src="https://img.shields.io/badge/Oracle%20SQL%20Developer-F80000?style=flat-square&logo=oracle&logoColor=white"/>
+
+  
 - IDE
   Eclipse
   Visual Studio Code
