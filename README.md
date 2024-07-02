@@ -16,17 +16,10 @@ Skills
 - IDE
   - <img src="https://img.shields.io/badge/Eclipse%20IDE-2C2255.svg?&style=for-the-badge&logo=Eclipse%20IDE&logoColor=white"/>
   - <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat-square&logo=Visual%20Studio%20Code&logoColor=white"/>
-
-  
 - Cooperation
-  Git, GitHub, Git Bash, Sourcetree
+Sourcetree
   Jira, Notion, Figma, ERDCloud
-
-  - CSS3
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
-
-
-
+  - <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/> <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/> <img src="https://img.shields.io/badge/Git%20Bash-F05032?style=flat-square&logo=git&logoColor=white"/>
 
 
 <!--
