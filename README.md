@@ -9,7 +9,12 @@ Skills
 - Languages
 - Tools
 
+<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/[ICON SLUG].svg" />
+<img height="32" width="32" src="https://unpkg.com/simple-icons@v13/icons/[ICON SLUG].svg" />
+
 <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/>
+
+
 
 #E34F26
   
